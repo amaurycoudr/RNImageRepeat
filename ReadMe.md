@@ -2,8 +2,8 @@
 
 ## Android
 
-![Alt text](assets/android.png?raw=true "Android behavior")
+<img src="assets/android.png" alt="drawing" width="200"/>
 
 ## IOS
 
-![Alt text](assets/ios.png?raw=true "IOS behavior")
+<img src="assets/ios.png" alt="drawing" width="200"/>

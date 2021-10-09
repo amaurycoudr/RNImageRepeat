@@ -5,6 +5,7 @@ import { Image, StyleSheet, Text, View } from "react-native";
 export default function App() {
   return (
     <View style={styles.container}>
+      <StatusBar style="light" />
       <Image
         style={styles.image}
         resizeMode="repeat"
